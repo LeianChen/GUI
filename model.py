@@ -26,7 +26,7 @@ print('Step 1: Initialise parameters.')
 
 num_of_agents = 10
 num_of_iterations = 100
-neighbourhood = 20f
+neighbourhood = 20
 
 
 print("num_of_agents", str(num_of_agents))
